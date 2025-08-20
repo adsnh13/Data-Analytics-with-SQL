@@ -21,18 +21,4 @@ It serves as a hands-on resource to practice and explore how to analyze data dir
 
 ---
 
-## 🗂 Contents
-
-| File          | Description                              |
-|---------------|------------------------------------------|
-| `queries.sql` | Main SQL file containing all sample queries for analytics and reporting. |
-
----
-
-## 🛠 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/adsnh13/Data-Analytics-with-SQL.git
-   cd Data-Analytics-with-SQL
 
